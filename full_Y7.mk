@@ -18,9 +18,8 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := A37
-PRODUCT_NAME := full_A37
-PRODUCT_BRAND := OPPO
-PRODUCT_MODEL := OPPO A37m
-PRODUCT_MANUFACTURER := OPPO
-PRODUCT_BOARD := full_oppo6750_15127
+PRODUCT_DEVICE := Y7
+PRODUCT_NAME := full_Y7
+PRODUCT_BRAND := Neffos
+PRODUCT_MODEL := Neffos_Y7
+PRODUCT_MANUFACTURER := TP-Link
