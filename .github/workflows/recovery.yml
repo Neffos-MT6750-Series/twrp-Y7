@@ -9,7 +9,7 @@ on:
     types: [started]
 
 env:
-  MANIFEST: git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git
+  MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git
   MANIFEST_BRANCH: twrp-8.1
   DEVICE: Y7
   DT_LINK: https://github.com/Neffos-MT6750-Series/twrp-Y7
